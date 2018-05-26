@@ -29,9 +29,47 @@ let selectedOctaveMin = 4;
 let selectedOctaveMax = 5;
 const selectedWaveform = 'sine';
 
-const frequencyColors = ['#ff0000', '#ff4e00', '#db7b01', '#ffcd01', '#e4ed00', '#81d700', '#02feb4', '#01ffeb', '#01baff', '#3c00ff', '#a801ff', '#fe00fd', '#ff0000', '#ff4e00', '#db7b01', '#ffcd01', '#e4ed00', '#81d700', '#02feb4', '#01ffeb', '#01baff', '#3c00ff', '#a801ff', '#fe00fd'];
+const frequencyColors = [
+  '#ff0000',
+  '#ff4e00',
+  '#db7b01',
+  '#ffcd01',
+  '#e4ed00',
+  '#81d700',
+  '#02feb4',
+  '#01ffeb',
+  '#01baff',
+  '#3c00ff',
+  '#a801ff',
+  '#fe00fd',
+  '#ff0000',
+  '#ff4e00',
+  '#db7b01',
+  '#ffcd01',
+  '#e4ed00',
+  '#81d700',
+  '#02feb4',
+  '#01ffeb',
+  '#01baff',
+  '#3c00ff',
+  '#a801ff',
+  '#fe00fd'
+];
 
-const keys = ['c', 'cis', 'd', 'dis', 'e', 'f', 'fis', 'g', 'gis', 'a', 'ais', 'b'];
+const keys = [
+  'c',
+  'cis',
+  'd',
+  'dis',
+  'e',
+  'f',
+  'fis',
+  'g',
+  'gis',
+  'a',
+  'ais',
+  'b'
+];
 
 
 // ===== LOGIC ===== //
